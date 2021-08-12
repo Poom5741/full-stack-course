@@ -1,0 +1,13 @@
+title notes
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes
+server->browser: notes
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
+server->browser: main.js
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+server->browser: data.json
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/favicon.ico
+server->browser: favicon.ico
